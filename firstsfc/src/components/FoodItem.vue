@@ -9,8 +9,8 @@
 export default {
   data() {
     return {
-      name: 'Bananas',
-      message: 'I like bananas because it is full of potassium'
+      name: 'Jollibee and 24 Chicken',
+      message: 'I like this two chicken fast food because I love the taste of their chickens!'
     }
   }
 };

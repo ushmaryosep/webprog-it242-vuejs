@@ -1,5 +1,5 @@
 <template>
-  <h1>FAV FRUIT</h1>
+  <h1>FAVORITE CHICKEN RESTO</h1>
   <food-item/>
   <food-item/>
   <food-item/>
@@ -13,6 +13,6 @@
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: lightgreen;
+    background-color: brown;
   }
 </style>

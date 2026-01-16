@@ -1,5 +1,5 @@
 <template>
-  <div class="chicken">
+  <div class="burgers">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -9,8 +9,8 @@
 export default {
   data() {
     return {
-      name: 'Jollibee and 24 Chicken',
-      message: 'I like this two chicken fast food because I love the taste of their chickens!'
+      name: 'Minute Burger',
+      message: 'I love 24 Minute Burger because of the pepper options.'
     }
   }
 };
@@ -18,7 +18,7 @@ export default {
 
 <style>
   #app > div {
-    border: dashed yellow 1px;
+    border: dashed black 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;

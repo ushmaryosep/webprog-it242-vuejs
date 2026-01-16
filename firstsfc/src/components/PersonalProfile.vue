@@ -3,7 +3,6 @@
 <html>
 <head>
   <title>My first Vue page</title>
-    <link rel="stylesheet" href="css/personalprofile.css?version=0.1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
@@ -37,3 +36,5 @@
   </div>
 </html>
 </template>
+<script></script>
+<style src="./css/personalprofile.css"></style>

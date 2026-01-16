@@ -22,6 +22,6 @@ export default {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: light brown;
+    background-color: red;
   }
 </style>

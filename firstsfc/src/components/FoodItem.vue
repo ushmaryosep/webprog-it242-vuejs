@@ -18,10 +18,10 @@ export default {
 
 <style>
   #app > div {
-    border: dashed yellow 1px;
+    border: dashed black 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: brown;
+    background-color: light brown;
   }
 </style>
